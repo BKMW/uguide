@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "356558818744",
+    "firebase_url": "https://guide-c9b1b.firebaseio.com",
+    "project_id": "guide-c9b1b",
+    "storage_bucket": "guide-c9b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356558818744:android:7b08234125b24a6e",
+        "android_client_info": {
+          "package_name": "com.bel.guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356558818744-7ala7160mvidd461qa885bcpji4r7gcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bel.guide",
+            "certificate_hash": "5ff2c9e4aa4339af8f45aad5e6365e724f24d06f"
+          }
+        },
+        {
+          "client_id": "356558818744-bs8g2vmq5gp68nsirdtf9imer8nn4m02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDazS9VS6mvvgOFrL1l8CFkw2u_jltF04w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356558818744-bs8g2vmq5gp68nsirdtf9imer8nn4m02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
